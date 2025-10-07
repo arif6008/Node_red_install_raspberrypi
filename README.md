@@ -1,4 +1,4 @@
-# Node_red_install_raspberrypi
+# Node RED Installation Instructions on Raspberry PI 
 
 This repository provides resources and/or scripts to help install [Node-RED](https://nodered.org/) on a Raspberry Pi.
 
