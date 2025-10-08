@@ -31,7 +31,7 @@ Use the below commands step-by-step on the raspberry pi device either using dire
 
 5. start node red with this command: node-red-start
 
-6. Launch nodered by visiting: http://<hostname>:1880. You can find the IP address by running hostname -I on the Pi.
+6. Launch nodered by visiting: http://<ip-address-of-raspberry-pi>:1880. You can find the IP address by running hostname -I on the Pi.
 
 ## Clone this repository 
 1. Clone this repository:
